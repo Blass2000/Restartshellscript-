@@ -35,3 +35,17 @@ Guidelines for contributing to the project go here. Explain how others can contr
 
 ## License
 
+
+## Acknowledgments
+
+- List any acknowledgments or references to people, projects, or resources that helped you create your project.
+
+## Our Contributors ✨
+
+<a href="https://github.com/yourusername/yourproject/graphs/contributors">
+ <img src="https://contrib.rocks/image?repo=yourusername/yourproject" />
+</a>
+
+---
+
+If you find this project helpful, consider giving it a star and share your thoughts in the comments section ❤️
