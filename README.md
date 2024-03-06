@@ -74,3 +74,12 @@ Include instructions on how to use your project. You can also include screenshot
 
 To ensure your program restarts on crash, you can use a simple shell script. Here's an example:
 
+
+This script will restart your program 10 seconds after it crashes.
+
+## Contributing
+
+Guidelines for contributing to the project go here. Explain how others can contribute to your project.
+
+## License
+
