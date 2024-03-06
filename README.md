@@ -9,7 +9,7 @@ Project description goes here. Explain what your application does, why you used 
 - Feature 3
 
 ## Getting Started
-#!/bin/bash
+!/bin/bash
 while true; do
   your_program_command
 done
