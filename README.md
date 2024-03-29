@@ -1,4 +1,4 @@
-# Project Title
+# Restart Script
 To write a shell script that restarts a program on crash, you can use a simple loop structure in your script. This approach is straightforward and doesn't require additional software dependencies. Here's how you can do it:
 
 Using a Loop in the Shell Script:
